@@ -7,7 +7,6 @@ import Footer from "./src/components/Footer";
 const AppLayout = () => {
   return (
     <div>
-      <h1>Entry and Exit Tracking System</h1>
       <Header />
       <Body />
       <Footer />
